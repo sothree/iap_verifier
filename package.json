@@ -7,6 +7,6 @@
   "author"       : "Paul Crawford <paul@cometcoast.com> (http://cometcoast.com)",  
   "main"         : "./lib/iap_verifier",
   "directories"  : {"lib"  : "./lib"},
-  "repository"   : {"type" : "git",  "url": "https://github.com/sothree/iap_verifier.git"},
+  "repository"   : {"type" : "git",  "url": "https://github.com/pcrawfor/iap_verifier.git"},
   "engines"      : {"node" : ">= 0.4.7"}
 }
